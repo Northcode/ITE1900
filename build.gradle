@@ -6,6 +6,11 @@ sourceSets {
 		     srcDir "src/com/headcrest/car"
 		}
 	   }
+	   methods {
+	   	   java {
+		   	srcDir "src/com/headcrest/methods"
+		}
+	   }
 }
 
 jar {
